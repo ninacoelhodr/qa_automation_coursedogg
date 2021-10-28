@@ -1,0 +1,8 @@
+{
+  "testFiles": [
+    "./api/*.js",
+    "**/*.feature"
+  ],
+  "reporter": "cypress-mochawesome-reporter",
+  "videoCompression": 0
+}
